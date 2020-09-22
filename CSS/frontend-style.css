@@ -1,0 +1,29 @@
+.toplevel_page_social_media_test_icon{}
+.toplevel_page_social_media_test_icon .wp-menu-image img{max-width:28px;width: 100%;padding:3px !important;}
+
+/* Social Media Form*/
+.si_main_block{}
+.si_main_block p{}
+.si_main_block p.si_text{font-size: 20px;font-weight: 600;margin-bottom: 0px;}
+.si_main_list{}
+.si_main_list li{}
+.si_main_list li span.si_icon{display: inline-block;vertical-align: middle;padding: 5px 10px 5px 5px;font-size: 13px;
+font-weight: 600;font-style: italic;}
+.si_url_block{display: inline-block;vertical-align: middle;padding: 3px;width: 50%;}
+.si_url{font-size:12px;width: inherit;}
+.si_save_block{}
+.si_icon_value{font-size:12px;width: inherit;}
+.si_save{display: inline-block;text-decoration: none;font-size: 15px;line-height: 2.15384615;min-height: 30px;margin: 0;padding: 0 10px;
+cursor: pointer;border-width: 1px;border-style: solid;-webkit-appearance: none;border-radius: 3px;white-space: nowrap;box-sizing: border-box;
+color: #0071a1;border-color: #0071a1;background: #f3f5f6;vertical-align: top;font-weight: bold;}
+.si_save:hover{background-color:#0073aa;color: #fff;text-decoration: blink;}
+.Plugin_Info{margin-top: 50px;}
+.Plugin_Info p{}
+
+.sm_icons_block{text-align: center;margin: 10px auto !important;}
+.sm_icons_block ul{list-style: none;margin: 0px;padding:5px 0px;}
+.sm_icons_block ul li{display: inline-block;vertical-align: middle;list-style: none;margin: 0px 8px;}
+.sm_icons_block ul li a{display: block;text-decoration: blink;width: 40px;height: 40px;background-color: #000;color: #fff;
+border-radius: 100%;font-size: 20px;line-height: 40px;}
+.sm_icons_block ul li a:hover{padding: 3px; background-color: #00008B;}
+
